@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Secrets of innovation & entrepreneurship]]></title>
+        <description><![CDATA[Secrets of innovation & entrepreneurship]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 01:08:22 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fc08ef83-4270-4a18-82b7-cd2aa6aea860.png">]]></description>
+            <link>undefined38dfcd31-ea44-43e8-8c52-8247cb927415/index.html</link>
+            <guid isPermaLink="false">38dfcd31-ea44-43e8-8c52-8247cb927415</guid>
+            <pubDate>Fri, 04 Mar 2016 01:04:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
