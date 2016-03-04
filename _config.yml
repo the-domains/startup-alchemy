@@ -1,7 +1,7 @@
 name: Startup Alchemy
 favicon: null
-layout_spectrum: 0.6255385789554566
-typography_spectrum: 0.6051568407565355
+layout_spectrum: 0.4983
+typography_spectrum: 0.75043
 title: 'Secrets of innovation & entrepreneurship'
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0.049580876249819994
-  lightness: 0.06743365922011435
-  saturation: 0.13643860584124923
+  lightness: 0.5
+  saturation: 0
   rhythmicContrast: 0.9828767706640065
 purpose: []
